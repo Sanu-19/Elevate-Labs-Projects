@@ -1,0 +1,501 @@
+OrderID,OrderDate,ProductCategory,SubCategory,Region,Sales,Cost,Quantity,Channel,CustomerSegment
+ORD00001,2024-05-25,Furniture,Chairs,East,3905.36,490.5,6,Retail,Corporate
+ORD00002,2024-02-06,Furniture,Chairs,South,1260.62,566.03,2,Online,Corporate
+ORD00003,2023-09-12,Furniture,Tables,North,6601.94,782.66,7,Online,Small Business
+ORD00004,2023-04-07,Clothing,Men,South,6899.88,682.71,9,Retail,Small Business
+ORD00005,2024-10-06,Furniture,Sofas,East,941.07,757.49,1,Retail,Consumer
+ORD00006,2023-07-23,Electronics,Laptops,West,7246.65,893.14,6,Distributor,Corporate
+ORD00007,2023-11-29,Electronics,Phones,South,239.64,208.99,1,Distributor,Corporate
+ORD00008,2024-08-18,Electronics,Laptops,South,6219.03,703.99,8,Online,Consumer
+ORD00009,2024-09-25,Electronics,Phones,South,7842.27,934.31,6,Retail,Consumer
+ORD00010,2023-06-07,Clothing,Men,North,7895.69,801.89,9,Retail,Small Business
+ORD00011,2023-07-17,Electronics,Laptops,East,828.38,704.79,1,Retail,Small Business
+ORD00012,2024-03-24,Electronics,Laptops,North,3842.84,329.98,9,Retail,Small Business
+ORD00013,2023-11-28,Electronics,Accessories,South,3342.35,311.56,8,Distributor,Corporate
+ORD00014,2024-04-05,Clothing,Men,North,5134.58,828.45,5,Distributor,Consumer
+ORD00015,2023-01-20,Furniture,Chairs,West,11418.54,863.99,10,Distributor,Consumer
+ORD00016,2024-02-01,Electronics,Laptops,North,2682.68,547.87,4,Distributor,Small Business
+ORD00017,2023-11-26,Clothing,Men,East,362.26,141.44,2,Retail,Corporate
+ORD00018,2023-04-20,Electronics,Phones,South,1969.81,232.04,8,Online,Consumer
+ORD00019,2024-08-27,Clothing,Women,West,544.63,96.63,5,Distributor,Small Business
+ORD00020,2024-05-18,Clothing,Men,North,1260.02,494.66,2,Online,Small Business
+ORD00021,2023-03-01,Furniture,Sofas,West,3219.5,302.52,10,Retail,Small Business
+ORD00022,2023-04-10,Electronics,Laptops,North,1826.71,738.91,2,Online,Small Business
+ORD00023,2023-07-03,Electronics,Phones,South,8194.56,761.73,9,Distributor,Small Business
+ORD00024,2024-03-13,Electronics,Accessories,East,464.11,208.47,2,Distributor,Corporate
+ORD00025,2024-06-30,Furniture,Sofas,East,5524.66,470.86,10,Distributor,Consumer
+ORD00026,2024-10-10,Furniture,Sofas,East,6797.73,834.85,7,Retail,Corporate
+ORD00027,2023-09-18,Electronics,Accessories,South,6976.01,963.57,6,Retail,Small Business
+ORD00028,2023-01-17,Furniture,Chairs,North,2185.35,178.33,9,Retail,Small Business
+ORD00029,2023-01-23,Electronics,Laptops,South,5672.56,923.16,5,Online,Corporate
+ORD00030,2024-04-16,Clothing,Kids,South,1359.64,198.3,6,Online,Consumer
+ORD00031,2023-04-05,Clothing,Men,South,5893.81,429.81,10,Retail,Corporate
+ORD00032,2024-05-14,Clothing,Men,East,8976.22,828.54,10,Retail,Consumer
+ORD00033,2024-01-26,Clothing,Women,North,2171.87,791.12,2,Distributor,Small Business
+ORD00034,2023-08-21,Furniture,Tables,West,11856.54,932.22,10,Retail,Consumer
+ORD00035,2023-02-12,Clothing,Women,North,3723.29,562.93,6,Retail,Small Business
+ORD00036,2024-02-07,Clothing,Kids,South,7660.2,765.2,8,Online,Consumer
+ORD00037,2023-06-01,Electronics,Phones,West,1348.03,369.36,3,Retail,Corporate
+ORD00038,2024-02-13,Clothing,Men,West,5390.48,462.77,9,Retail,Consumer
+ORD00039,2024-08-08,Electronics,Laptops,South,3263.03,583.11,4,Retail,Corporate
+ORD00040,2024-03-16,Clothing,Men,South,5260.5,700.5,6,Online,Corporate
+ORD00041,2023-12-23,Electronics,Accessories,West,1784.65,354.7,4,Retail,Corporate
+ORD00042,2024-03-28,Electronics,Laptops,South,2009.18,188.53,10,Retail,Small Business
+ORD00043,2023-03-29,Electronics,Phones,East,1708.5,752.6,2,Online,Small Business
+ORD00044,2023-04-24,Clothing,Men,East,2526.2,477.56,5,Online,Corporate
+ORD00045,2024-06-19,Electronics,Accessories,South,3622.61,571.36,5,Online,Small Business
+ORD00046,2024-06-23,Electronics,Accessories,North,313.47,292.68,1,Retail,Small Business
+ORD00047,2023-01-09,Electronics,Accessories,East,959.96,419.21,2,Online,Corporate
+ORD00048,2024-01-31,Clothing,Women,North,4817.65,980.8,4,Online,Corporate
+ORD00049,2024-06-28,Clothing,Men,East,556.5,227.1,2,Retail,Small Business
+ORD00050,2024-06-26,Furniture,Sofas,North,2178.76,366.89,5,Online,Consumer
+ORD00051,2023-12-30,Electronics,Phones,East,1910.28,274.39,5,Distributor,Corporate
+ORD00052,2024-02-01,Clothing,Women,North,1308.84,946.93,1,Distributor,Corporate
+ORD00053,2023-05-21,Electronics,Phones,East,1832.11,743.4,2,Retail,Small Business
+ORD00054,2024-08-09,Clothing,Kids,South,1582.98,455.14,3,Retail,Consumer
+ORD00055,2023-07-31,Clothing,Women,West,2328.61,601.98,3,Distributor,Consumer
+ORD00056,2024-06-20,Electronics,Phones,East,1882.14,458.56,3,Distributor,Small Business
+ORD00057,2024-07-24,Electronics,Accessories,South,9343.27,951.17,9,Retail,Consumer
+ORD00058,2024-02-26,Furniture,Chairs,North,3241.38,470.85,5,Retail,Corporate
+ORD00059,2023-04-20,Clothing,Kids,East,890.89,225.51,3,Online,Consumer
+ORD00060,2024-09-19,Clothing,Kids,East,2788.78,616.54,4,Distributor,Small Business
+ORD00061,2023-05-18,Electronics,Laptops,North,9329.46,853.83,9,Distributor,Corporate
+ORD00062,2024-04-30,Clothing,Women,South,696.49,205.6,3,Retail,Corporate
+ORD00063,2023-07-27,Furniture,Chairs,East,620.33,112.83,4,Retail,Consumer
+ORD00064,2024-04-13,Furniture,Sofas,West,2411.69,456.18,4,Distributor,Corporate
+ORD00065,2024-02-08,Clothing,Kids,West,11778.92,942.18,10,Distributor,Corporate
+ORD00066,2024-04-07,Clothing,Kids,North,7118.79,835.66,8,Distributor,Consumer
+ORD00067,2024-07-25,Electronics,Accessories,West,4806.19,540.32,7,Distributor,Consumer
+ORD00068,2023-11-08,Electronics,Phones,East,2924.46,488.28,5,Retail,Corporate
+ORD00069,2024-04-07,Clothing,Men,South,1605.02,736.51,2,Retail,Small Business
+ORD00070,2023-11-28,Clothing,Kids,South,712.41,73.67,8,Retail,Corporate
+ORD00071,2023-11-28,Clothing,Men,West,2402.26,732.46,3,Online,Corporate
+ORD00072,2023-03-29,Electronics,Accessories,West,8475.09,721.92,9,Distributor,Corporate
+ORD00073,2024-01-25,Clothing,Kids,South,1067.84,779.85,1,Retail,Small Business
+ORD00074,2023-07-03,Clothing,Kids,South,519.63,448.6,1,Online,Consumer
+ORD00075,2023-07-27,Furniture,Tables,South,730.33,641.43,1,Online,Consumer
+ORD00076,2024-09-14,Furniture,Tables,West,2773.27,275.98,8,Distributor,Consumer
+ORD00077,2024-09-07,Furniture,Tables,West,764.17,56.24,10,Retail,Consumer
+ORD00078,2023-06-01,Furniture,Sofas,South,712.76,670.61,1,Online,Consumer
+ORD00079,2023-02-20,Electronics,Accessories,East,992.49,446.11,2,Retail,Consumer
+ORD00080,2024-08-15,Clothing,Women,South,6072.77,934.91,6,Retail,Small Business
+ORD00081,2024-03-13,Furniture,Tables,East,1221.01,111.68,9,Retail,Consumer
+ORD00082,2024-02-28,Electronics,Accessories,East,2520.56,249.35,9,Retail,Small Business
+ORD00083,2024-09-11,Electronics,Phones,North,3068.52,455.7,5,Retail,Small Business
+ORD00084,2024-07-30,Furniture,Sofas,East,5529.2,543.72,8,Online,Small Business
+ORD00085,2023-07-18,Furniture,Chairs,South,196.82,162.3,1,Distributor,Corporate
+ORD00086,2024-02-28,Electronics,Accessories,South,457.46,367.1,1,Distributor,Corporate
+ORD00087,2023-10-16,Clothing,Men,North,4634.88,800.69,5,Distributor,Consumer
+ORD00088,2023-12-08,Clothing,Kids,East,3194.63,426.25,6,Online,Consumer
+ORD00089,2024-05-05,Electronics,Phones,South,8241.7,807.39,8,Retail,Corporate
+ORD00090,2024-04-18,Furniture,Chairs,West,6973.63,931.4,7,Distributor,Corporate
+ORD00091,2023-01-20,Clothing,Women,East,2791.79,598.53,4,Distributor,Small Business
+ORD00092,2023-12-14,Furniture,Chairs,South,6073.75,645.19,7,Retail,Consumer
+ORD00093,2023-04-30,Clothing,Kids,West,4176.27,720.0,5,Online,Small Business
+ORD00094,2023-09-01,Electronics,Laptops,West,3976.61,479.31,6,Online,Corporate
+ORD00095,2024-01-19,Electronics,Accessories,East,1080.54,788.9,1,Online,Consumer
+ORD00096,2023-06-07,Furniture,Sofas,North,1819.61,373.11,4,Retail,Small Business
+ORD00097,2024-06-12,Clothing,Women,East,780.93,244.93,3,Online,Consumer
+ORD00098,2023-02-15,Furniture,Sofas,North,10246.47,878.28,10,Online,Corporate
+ORD00099,2023-11-16,Electronics,Phones,East,1585.98,354.84,4,Online,Small Business
+ORD00100,2023-05-01,Furniture,Sofas,East,1099.08,191.85,5,Retail,Small Business
+ORD00101,2023-12-25,Electronics,Accessories,North,3488.9,352.56,9,Online,Small Business
+ORD00102,2023-11-15,Clothing,Women,South,11123.45,897.63,10,Online,Consumer
+ORD00103,2023-02-21,Electronics,Phones,North,895.26,414.42,2,Retail,Small Business
+ORD00104,2023-11-16,Furniture,Chairs,West,6444.84,826.57,6,Distributor,Corporate
+ORD00105,2023-05-15,Clothing,Kids,North,2255.97,822.21,2,Retail,Small Business
+ORD00106,2024-04-21,Furniture,Chairs,West,2438.18,270.11,8,Retail,Small Business
+ORD00107,2023-12-05,Clothing,Women,East,3058.45,480.62,6,Retail,Consumer
+ORD00108,2023-06-24,Furniture,Chairs,East,4917.16,779.54,5,Retail,Corporate
+ORD00109,2023-04-20,Electronics,Accessories,North,3729.68,578.34,6,Retail,Small Business
+ORD00110,2024-02-28,Furniture,Sofas,West,3178.12,639.83,4,Retail,Small Business
+ORD00111,2024-08-28,Furniture,Tables,North,6692.05,795.1,7,Retail,Consumer
+ORD00112,2023-03-21,Furniture,Sofas,South,9209.63,844.91,10,Online,Small Business
+ORD00113,2024-03-31,Clothing,Women,East,1225.27,342.63,3,Distributor,Consumer
+ORD00114,2023-03-04,Clothing,Men,West,564.1,256.73,2,Retail,Corporate
+ORD00115,2023-06-02,Clothing,Kids,North,5265.09,554.69,8,Online,Small Business
+ORD00116,2023-11-21,Clothing,Women,South,4052.44,591.76,5,Online,Small Business
+ORD00117,2023-01-09,Furniture,Tables,East,11760.99,987.1,10,Online,Small Business
+ORD00118,2023-02-24,Electronics,Laptops,North,960.41,718.19,1,Retail,Small Business
+ORD00119,2024-03-18,Furniture,Chairs,East,4930.49,424.55,10,Online,Consumer
+ORD00120,2023-08-05,Furniture,Tables,West,1677.6,501.13,3,Retail,Small Business
+ORD00121,2023-05-09,Furniture,Tables,West,233.76,61.02,3,Online,Corporate
+ORD00122,2023-05-20,Electronics,Accessories,West,480.51,180.36,2,Distributor,Corporate
+ORD00123,2024-04-10,Furniture,Sofas,West,5450.09,452.92,9,Distributor,Consumer
+ORD00124,2024-09-11,Furniture,Tables,South,806.54,599.04,1,Online,Corporate
+ORD00125,2024-08-13,Electronics,Accessories,East,521.78,81.79,6,Retail,Small Business
+ORD00126,2024-05-08,Furniture,Sofas,East,483.15,184.98,2,Online,Small Business
+ORD00127,2023-04-01,Furniture,Tables,North,2613.05,498.83,4,Distributor,Small Business
+ORD00128,2023-12-18,Clothing,Men,East,8627.91,789.6,9,Distributor,Consumer
+ORD00129,2023-10-29,Clothing,Women,East,1352.31,209.13,5,Retail,Corporate
+ORD00130,2023-09-24,Clothing,Kids,East,811.32,647.84,1,Distributor,Small Business
+ORD00131,2023-01-28,Clothing,Men,East,2793.53,510.52,5,Distributor,Small Business
+ORD00132,2023-10-15,Electronics,Laptops,East,4562.59,864.97,5,Online,Small Business
+ORD00133,2023-06-04,Electronics,Accessories,South,3567.83,401.28,8,Distributor,Small Business
+ORD00134,2023-02-03,Clothing,Men,West,8205.37,984.87,6,Online,Small Business
+ORD00135,2023-09-01,Clothing,Men,West,6559.95,739.7,8,Retail,Corporate
+ORD00136,2023-09-28,Clothing,Kids,East,242.24,99.9,2,Online,Small Business
+ORD00137,2023-08-28,Furniture,Tables,West,5808.41,699.33,7,Distributor,Small Business
+ORD00138,2024-04-04,Furniture,Chairs,West,6741.72,694.57,7,Online,Corporate
+ORD00139,2023-12-29,Clothing,Men,North,5636.61,629.96,7,Distributor,Small Business
+ORD00140,2023-09-19,Furniture,Tables,East,5567.66,421.6,10,Retail,Consumer
+ORD00141,2023-07-04,Clothing,Men,South,4398.12,570.23,6,Distributor,Corporate
+ORD00142,2023-04-17,Electronics,Phones,West,4004.76,383.94,8,Online,Small Business
+ORD00143,2023-04-05,Furniture,Chairs,North,1205.05,941.58,1,Online,Small Business
+ORD00144,2023-03-30,Electronics,Accessories,North,2219.19,173.41,10,Distributor,Consumer
+ORD00145,2023-07-08,Clothing,Kids,South,2112.9,329.84,5,Online,Small Business
+ORD00146,2023-11-28,Electronics,Accessories,West,1096.72,203.87,5,Retail,Corporate
+ORD00147,2023-09-22,Electronics,Laptops,West,1176.51,219.03,5,Retail,Consumer
+ORD00148,2024-05-18,Electronics,Accessories,West,492.48,186.68,2,Online,Small Business
+ORD00149,2023-09-23,Electronics,Accessories,North,178.65,83.12,2,Retail,Small Business
+ORD00150,2023-06-02,Clothing,Women,West,1200.85,936.25,1,Online,Corporate
+ORD00151,2023-01-04,Furniture,Chairs,East,8579.1,722.23,9,Retail,Small Business
+ORD00152,2024-07-07,Furniture,Tables,West,294.17,53.14,4,Distributor,Consumer
+ORD00153,2023-11-07,Furniture,Chairs,East,1003.07,102.43,7,Retail,Small Business
+ORD00154,2023-03-24,Clothing,Men,East,7115.54,772.43,8,Distributor,Corporate
+ORD00155,2023-07-15,Electronics,Phones,North,4848.78,711.09,5,Retail,Small Business
+ORD00156,2024-10-09,Clothing,Kids,East,6581.22,748.56,8,Retail,Consumer
+ORD00157,2023-03-06,Electronics,Phones,South,7289.51,661.24,9,Retail,Corporate
+ORD00158,2023-12-12,Furniture,Chairs,North,489.24,435.23,1,Retail,Consumer
+ORD00159,2023-06-02,Clothing,Kids,West,2917.48,271.34,10,Distributor,Small Business
+ORD00160,2024-04-27,Clothing,Men,West,1211.38,93.51,10,Distributor,Consumer
+ORD00161,2023-11-11,Electronics,Phones,South,1072.85,483.38,2,Distributor,Consumer
+ORD00162,2024-09-01,Clothing,Men,North,3455.93,259.54,10,Online,Corporate
+ORD00163,2024-08-12,Furniture,Tables,West,2180.81,180.46,9,Retail,Consumer
+ORD00164,2023-05-04,Electronics,Phones,South,1100.7,184.17,5,Retail,Consumer
+ORD00165,2024-08-18,Clothing,Women,South,234.46,176.7,1,Retail,Consumer
+ORD00166,2024-05-13,Clothing,Kids,West,124.7,56.03,2,Online,Consumer
+ORD00167,2024-05-02,Electronics,Accessories,East,939.59,245.85,3,Retail,Small Business
+ORD00168,2024-09-17,Clothing,Women,West,802.03,616.46,1,Online,Consumer
+ORD00169,2023-01-05,Clothing,Men,East,2689.35,273.86,9,Retail,Corporate
+ORD00170,2023-08-13,Clothing,Men,East,8010.52,781.81,8,Distributor,Small Business
+ORD00171,2024-04-30,Furniture,Chairs,South,2235.22,217.51,8,Online,Consumer
+ORD00172,2024-03-21,Electronics,Phones,East,2447.72,367.58,5,Retail,Consumer
+ORD00173,2024-07-04,Furniture,Chairs,North,636.55,200.14,3,Distributor,Consumer
+ORD00174,2024-03-31,Clothing,Men,North,7189.25,600.77,10,Online,Small Business
+ORD00175,2023-11-30,Clothing,Kids,East,749.13,143.16,4,Online,Consumer
+ORD00176,2024-08-22,Electronics,Laptops,South,977.63,101.62,8,Online,Corporate
+ORD00177,2024-01-18,Electronics,Accessories,West,1626.12,484.85,3,Online,Corporate
+ORD00178,2023-02-02,Furniture,Tables,South,1171.0,106.67,10,Retail,Consumer
+ORD00179,2023-08-14,Furniture,Tables,West,4134.54,623.45,5,Online,Corporate
+ORD00180,2023-08-24,Clothing,Kids,South,1087.44,441.11,2,Distributor,Small Business
+ORD00181,2023-01-15,Electronics,Accessories,West,5960.72,749.37,7,Retail,Corporate
+ORD00182,2024-08-10,Furniture,Tables,South,476.14,446.88,1,Distributor,Consumer
+ORD00183,2024-02-08,Furniture,Sofas,North,8479.55,819.23,8,Retail,Small Business
+ORD00184,2024-07-25,Electronics,Laptops,West,844.76,708.5,1,Online,Consumer
+ORD00185,2023-04-03,Electronics,Phones,East,585.04,505.79,1,Retail,Consumer
+ORD00186,2023-05-22,Clothing,Women,North,2140.83,225.7,7,Retail,Corporate
+ORD00187,2024-01-30,Clothing,Women,North,3837.81,554.37,6,Distributor,Consumer
+ORD00188,2024-09-27,Furniture,Sofas,South,4804.72,748.97,6,Distributor,Consumer
+ORD00189,2024-01-10,Clothing,Women,North,6013.95,638.18,8,Online,Corporate
+ORD00190,2023-07-29,Electronics,Accessories,North,3340.0,982.19,3,Distributor,Small Business
+ORD00191,2023-08-03,Electronics,Accessories,West,1934.22,354.44,4,Distributor,Small Business
+ORD00192,2023-03-06,Clothing,Kids,West,2767.15,377.97,6,Retail,Consumer
+ORD00193,2024-06-29,Clothing,Men,West,2825.59,479.38,5,Distributor,Small Business
+ORD00194,2023-03-31,Clothing,Kids,North,937.13,421.15,2,Online,Corporate
+ORD00195,2023-06-01,Electronics,Phones,South,1731.31,192.97,8,Retail,Consumer
+ORD00196,2024-07-08,Clothing,Men,East,1796.32,500.21,3,Retail,Small Business
+ORD00197,2023-03-06,Clothing,Kids,North,993.52,878.2,1,Retail,Consumer
+ORD00198,2023-12-18,Clothing,Kids,East,3940.3,511.84,6,Retail,Small Business
+ORD00199,2024-08-03,Clothing,Kids,West,3136.34,903.37,3,Retail,Corporate
+ORD00200,2023-02-18,Furniture,Chairs,West,1398.73,385.46,3,Retail,Corporate
+ORD00201,2023-10-20,Electronics,Accessories,South,3928.7,974.55,3,Distributor,Small Business
+ORD00202,2023-04-30,Clothing,Kids,South,1243.68,994.08,1,Online,Consumer
+ORD00203,2024-07-29,Furniture,Tables,East,949.94,682.28,1,Online,Consumer
+ORD00204,2024-06-30,Electronics,Laptops,West,875.67,165.42,5,Distributor,Consumer
+ORD00205,2023-01-05,Furniture,Chairs,West,10250.29,976.82,9,Retail,Consumer
+ORD00206,2023-05-31,Clothing,Women,West,10187.84,742.12,10,Retail,Small Business
+ORD00207,2023-02-11,Furniture,Sofas,North,2271.63,694.11,3,Distributor,Corporate
+ORD00208,2023-04-05,Electronics,Laptops,South,782.11,102.28,6,Retail,Corporate
+ORD00209,2023-01-24,Clothing,Kids,South,1354.21,561.49,2,Retail,Consumer
+ORD00210,2023-11-22,Clothing,Men,West,8623.71,624.82,10,Online,Corporate
+ORD00211,2024-03-13,Clothing,Women,West,2636.57,416.81,6,Online,Small Business
+ORD00212,2023-03-31,Furniture,Tables,East,3575.25,741.46,4,Retail,Small Business
+ORD00213,2024-03-10,Furniture,Tables,East,1604.71,182.59,7,Online,Small Business
+ORD00214,2024-06-21,Electronics,Phones,South,938.15,112.81,6,Retail,Corporate
+ORD00215,2023-10-07,Furniture,Chairs,North,1833.43,216.15,7,Retail,Small Business
+ORD00216,2023-10-24,Clothing,Men,South,6214.3,516.06,9,Online,Corporate
+ORD00217,2024-04-19,Furniture,Sofas,East,317.36,75.5,4,Retail,Small Business
+ORD00218,2023-10-22,Furniture,Tables,West,2109.59,220.4,7,Online,Small Business
+ORD00219,2024-05-19,Clothing,Men,North,1456.53,618.95,2,Online,Corporate
+ORD00220,2024-05-02,Furniture,Sofas,West,1057.09,404.54,2,Retail,Small Business
+ORD00221,2023-05-30,Electronics,Laptops,South,3784.8,487.99,6,Distributor,Consumer
+ORD00222,2024-03-05,Furniture,Chairs,North,665.53,96.28,6,Retail,Corporate
+ORD00223,2023-04-07,Clothing,Men,South,9488.29,765.0,10,Distributor,Consumer
+ORD00224,2024-01-07,Furniture,Sofas,East,1308.44,557.7,2,Retail,Small Business
+ORD00225,2024-01-17,Electronics,Phones,South,4845.82,441.39,8,Distributor,Corporate
+ORD00226,2023-08-15,Electronics,Phones,South,4012.35,805.35,4,Online,Small Business
+ORD00227,2023-03-20,Clothing,Kids,North,2273.73,827.9,2,Retail,Corporate
+ORD00228,2023-05-23,Furniture,Tables,East,9018.13,895.24,8,Distributor,Corporate
+ORD00229,2023-05-02,Furniture,Chairs,East,891.02,172.28,4,Online,Small Business
+ORD00230,2023-05-14,Clothing,Men,East,1194.73,453.56,2,Online,Consumer
+ORD00231,2023-02-13,Electronics,Phones,North,809.45,152.43,4,Retail,Corporate
+ORD00232,2023-09-17,Clothing,Kids,North,144.96,112.93,1,Retail,Consumer
+ORD00233,2023-07-09,Electronics,Phones,South,513.92,77.8,6,Distributor,Consumer
+ORD00234,2024-05-27,Clothing,Women,East,3495.46,279.73,10,Retail,Consumer
+ORD00235,2023-07-16,Electronics,Accessories,North,1400.49,213.18,5,Distributor,Consumer
+ORD00236,2024-05-01,Electronics,Accessories,North,4770.63,713.23,6,Online,Small Business
+ORD00237,2024-03-10,Clothing,Men,South,2569.16,538.54,4,Retail,Corporate
+ORD00238,2023-05-20,Furniture,Chairs,West,8030.55,774.16,8,Online,Small Business
+ORD00239,2024-05-20,Clothing,Kids,North,1005.55,415.54,2,Online,Corporate
+ORD00240,2024-02-22,Clothing,Women,West,5913.21,985.71,5,Online,Small Business
+ORD00241,2024-05-18,Electronics,Laptops,East,1051.81,426.55,2,Online,Consumer
+ORD00242,2024-02-15,Clothing,Men,North,12815.96,978.69,10,Online,Corporate
+ORD00243,2023-07-25,Electronics,Phones,East,10149.56,851.83,10,Online,Corporate
+ORD00244,2024-08-18,Electronics,Laptops,West,4102.58,309.32,10,Retail,Small Business
+ORD00245,2024-09-09,Clothing,Women,East,8501.02,988.15,7,Retail,Small Business
+ORD00246,2024-05-16,Electronics,Laptops,North,2972.51,269.28,8,Online,Corporate
+ORD00247,2023-01-28,Electronics,Phones,North,1597.42,413.5,3,Online,Corporate
+ORD00248,2024-06-16,Electronics,Laptops,North,7200.03,803.09,8,Online,Small Business
+ORD00249,2024-07-09,Clothing,Women,West,6089.43,819.01,6,Distributor,Corporate
+ORD00250,2024-04-05,Electronics,Phones,West,6218.92,860.23,6,Online,Corporate
+ORD00251,2023-11-07,Electronics,Phones,South,1701.26,516.91,3,Distributor,Small Business
+ORD00252,2024-05-17,Clothing,Women,West,7889.21,701.11,9,Online,Small Business
+ORD00253,2024-02-05,Furniture,Sofas,South,3613.21,519.96,5,Distributor,Consumer
+ORD00254,2023-03-04,Clothing,Kids,East,668.9,610.94,1,Retail,Corporate
+ORD00255,2024-01-25,Furniture,Tables,North,1276.3,456.74,2,Distributor,Corporate
+ORD00256,2023-09-11,Furniture,Tables,North,3348.07,665.68,4,Distributor,Consumer
+ORD00257,2023-06-23,Clothing,Men,East,596.92,561.5,1,Online,Corporate
+ORD00258,2024-04-25,Clothing,Women,West,825.55,71.12,10,Retail,Consumer
+ORD00259,2024-05-15,Clothing,Women,East,1585.08,706.32,2,Distributor,Consumer
+ORD00260,2023-11-03,Furniture,Sofas,East,6528.44,970.96,6,Online,Small Business
+ORD00261,2023-02-18,Clothing,Men,South,5932.23,996.42,5,Retail,Corporate
+ORD00262,2023-04-08,Electronics,Accessories,North,3972.11,370.0,10,Distributor,Small Business
+ORD00263,2023-03-20,Clothing,Women,West,3057.26,529.41,5,Online,Corporate
+ORD00264,2024-02-16,Clothing,Kids,East,3890.1,643.72,5,Online,Corporate
+ORD00265,2024-06-12,Clothing,Men,North,2017.41,598.0,3,Distributor,Small Business
+ORD00266,2024-09-21,Clothing,Women,East,8563.22,937.9,7,Distributor,Small Business
+ORD00267,2023-06-01,Electronics,Accessories,South,995.51,192.95,4,Retail,Corporate
+ORD00268,2024-10-11,Furniture,Tables,West,3904.44,853.67,4,Retail,Consumer
+ORD00269,2024-09-07,Furniture,Sofas,South,1898.64,435.57,4,Retail,Small Business
+ORD00270,2024-05-12,Electronics,Phones,South,10690.21,991.73,9,Retail,Corporate
+ORD00271,2023-01-30,Electronics,Phones,South,4589.97,800.19,5,Retail,Consumer
+ORD00272,2023-01-21,Clothing,Men,North,935.39,866.6,1,Distributor,Corporate
+ORD00273,2023-04-03,Clothing,Women,North,8631.66,946.0,7,Retail,Corporate
+ORD00274,2024-05-27,Electronics,Phones,North,1463.06,545.86,2,Distributor,Small Business
+ORD00275,2024-09-06,Clothing,Women,West,1819.63,784.53,2,Online,Consumer
+ORD00276,2023-08-30,Clothing,Kids,West,1957.04,257.11,7,Distributor,Small Business
+ORD00277,2024-08-26,Electronics,Laptops,West,609.28,515.84,1,Retail,Corporate
+ORD00278,2023-09-10,Electronics,Laptops,West,6100.56,885.46,5,Retail,Small Business
+ORD00279,2024-09-12,Furniture,Tables,East,1088.74,849.4,1,Retail,Consumer
+ORD00280,2024-01-29,Electronics,Accessories,South,4254.78,657.0,5,Retail,Small Business
+ORD00281,2023-01-09,Clothing,Men,South,8937.84,931.13,7,Retail,Corporate
+ORD00282,2023-06-14,Furniture,Chairs,South,7058.35,649.79,8,Retail,Consumer
+ORD00283,2024-05-18,Clothing,Women,North,8246.63,750.09,8,Retail,Consumer
+ORD00284,2023-09-25,Furniture,Sofas,West,1218.2,113.05,9,Online,Consumer
+ORD00285,2023-01-29,Clothing,Kids,East,734.66,659.3,1,Retail,Small Business
+ORD00286,2023-07-24,Furniture,Sofas,South,1877.3,348.04,5,Online,Corporate
+ORD00287,2024-02-25,Electronics,Phones,South,3895.71,478.92,6,Distributor,Small Business
+ORD00288,2023-12-02,Electronics,Laptops,South,1426.5,238.73,5,Distributor,Small Business
+ORD00289,2023-01-22,Electronics,Laptops,West,1183.25,926.96,1,Distributor,Consumer
+ORD00290,2023-09-26,Clothing,Men,North,369.6,97.29,3,Retail,Consumer
+ORD00291,2023-06-24,Clothing,Women,South,2101.67,161.48,10,Online,Corporate
+ORD00292,2023-07-28,Furniture,Tables,West,5065.17,948.75,4,Online,Consumer
+ORD00293,2024-03-17,Furniture,Tables,West,3468.29,620.08,4,Retail,Consumer
+ORD00294,2024-02-23,Furniture,Sofas,South,322.85,77.33,3,Retail,Consumer
+ORD00295,2024-08-19,Electronics,Accessories,West,1276.76,131.45,8,Online,Corporate
+ORD00296,2024-01-28,Furniture,Sofas,West,5977.73,749.3,7,Distributor,Consumer
+ORD00297,2023-08-29,Electronics,Accessories,North,10215.25,912.82,8,Online,Corporate
+ORD00298,2024-05-31,Clothing,Kids,North,5734.06,411.89,10,Online,Corporate
+ORD00299,2024-08-17,Clothing,Women,South,1093.67,297.28,3,Distributor,Consumer
+ORD00300,2024-06-27,Furniture,Tables,South,1410.49,184.71,7,Online,Corporate
+ORD00301,2024-01-05,Electronics,Phones,West,3027.93,318.78,7,Retail,Small Business
+ORD00302,2023-11-20,Clothing,Women,East,6842.57,775.49,8,Retail,Consumer
+ORD00303,2023-06-02,Clothing,Kids,West,285.16,268.37,1,Online,Consumer
+ORD00304,2024-05-21,Furniture,Chairs,West,655.38,469.44,1,Retail,Consumer
+ORD00305,2023-06-01,Clothing,Women,West,856.95,382.12,2,Retail,Consumer
+ORD00306,2023-10-07,Furniture,Chairs,South,11249.08,896.35,10,Distributor,Small Business
+ORD00307,2023-09-10,Clothing,Men,South,7543.7,693.06,8,Retail,Consumer
+ORD00308,2024-08-27,Electronics,Laptops,North,1865.75,845.13,2,Retail,Corporate
+ORD00309,2023-10-03,Electronics,Laptops,West,7867.05,675.11,10,Retail,Small Business
+ORD00310,2024-08-05,Electronics,Accessories,West,802.84,250.8,3,Retail,Small Business
+ORD00311,2023-03-14,Clothing,Women,East,10164.72,954.31,9,Online,Small Business
+ORD00312,2023-04-02,Furniture,Tables,South,951.75,859.73,1,Online,Corporate
+ORD00313,2024-05-17,Furniture,Tables,South,7197.38,749.09,7,Online,Corporate
+ORD00314,2023-04-09,Clothing,Kids,South,3935.39,537.02,6,Retail,Small Business
+ORD00315,2024-03-09,Furniture,Tables,East,2050.58,768.67,2,Distributor,Small Business
+ORD00316,2023-04-06,Clothing,Men,West,747.71,537.67,1,Distributor,Corporate
+ORD00317,2024-10-06,Clothing,Men,South,1417.72,129.77,9,Retail,Small Business
+ORD00318,2023-11-04,Electronics,Laptops,East,2523.4,546.94,4,Online,Consumer
+ORD00319,2023-04-21,Electronics,Accessories,North,4422.21,453.67,9,Online,Small Business
+ORD00320,2024-08-22,Clothing,Kids,East,1647.33,780.21,2,Retail,Corporate
+ORD00321,2024-02-07,Clothing,Kids,West,175.21,129.13,1,Online,Consumer
+ORD00322,2024-09-30,Furniture,Tables,West,2566.26,374.27,5,Distributor,Corporate
+ORD00323,2024-09-10,Electronics,Phones,South,4773.09,878.04,5,Online,Small Business
+ORD00324,2023-01-14,Clothing,Men,North,2445.16,673.01,3,Retail,Consumer
+ORD00325,2024-09-23,Furniture,Sofas,West,5876.84,706.13,6,Retail,Small Business
+ORD00326,2023-05-19,Clothing,Women,East,308.87,231.26,1,Online,Consumer
+ORD00327,2023-05-29,Clothing,Men,North,2355.49,464.0,4,Online,Corporate
+ORD00328,2023-06-01,Clothing,Men,North,3933.63,450.79,8,Retail,Corporate
+ORD00329,2023-01-21,Electronics,Accessories,West,5431.67,605.96,8,Retail,Corporate
+ORD00330,2023-04-16,Clothing,Women,North,9245.34,980.51,7,Retail,Consumer
+ORD00331,2024-02-14,Clothing,Kids,East,5607.53,537.69,8,Online,Corporate
+ORD00332,2024-06-24,Clothing,Women,South,523.29,450.9,1,Distributor,Consumer
+ORD00333,2024-05-21,Electronics,Laptops,West,11034.52,942.02,10,Retail,Consumer
+ORD00334,2023-07-16,Clothing,Women,North,3408.73,376.66,8,Online,Corporate
+ORD00335,2024-04-24,Electronics,Accessories,East,3475.27,889.01,3,Distributor,Small Business
+ORD00336,2024-09-28,Furniture,Tables,East,1670.9,318.33,4,Retail,Consumer
+ORD00337,2023-06-10,Clothing,Women,South,6872.01,517.58,10,Online,Consumer
+ORD00338,2023-02-18,Furniture,Tables,South,446.07,390.85,1,Online,Small Business
+ORD00339,2023-03-07,Clothing,Men,South,3487.65,459.09,6,Distributor,Consumer
+ORD00340,2023-12-15,Electronics,Accessories,South,6182.62,780.91,6,Retail,Corporate
+ORD00341,2024-09-10,Clothing,Women,South,1981.99,721.08,2,Distributor,Small Business
+ORD00342,2024-09-16,Furniture,Tables,North,1772.56,832.43,2,Online,Small Business
+ORD00343,2023-06-10,Electronics,Phones,North,4758.25,722.76,5,Online,Corporate
+ORD00344,2024-01-08,Furniture,Sofas,North,5431.56,828.2,6,Online,Small Business
+ORD00345,2024-04-30,Electronics,Laptops,West,2147.2,322.42,6,Online,Consumer
+ORD00346,2023-09-09,Furniture,Tables,West,2837.23,765.55,3,Retail,Small Business
+ORD00347,2024-04-14,Electronics,Phones,West,8523.35,804.88,9,Retail,Corporate
+ORD00348,2024-06-13,Electronics,Laptops,South,302.9,130.54,2,Online,Small Business
+ORD00349,2023-06-04,Electronics,Laptops,North,1333.6,104.92,10,Retail,Consumer
+ORD00350,2024-07-20,Clothing,Kids,East,4264.97,735.47,5,Retail,Corporate
+ORD00351,2023-05-31,Furniture,Chairs,East,3721.18,473.88,7,Distributor,Small Business
+ORD00352,2024-02-19,Clothing,Kids,West,3829.76,886.93,4,Distributor,Corporate
+ORD00353,2023-05-10,Clothing,Women,West,10265.03,992.33,9,Distributor,Small Business
+ORD00354,2024-10-12,Electronics,Accessories,East,295.13,72.25,3,Distributor,Corporate
+ORD00355,2024-03-08,Clothing,Kids,East,1493.25,154.92,9,Online,Corporate
+ORD00356,2023-05-08,Furniture,Tables,East,3484.87,333.06,8,Online,Consumer
+ORD00357,2024-08-02,Furniture,Tables,South,8681.72,852.27,9,Distributor,Small Business
+ORD00358,2024-06-16,Furniture,Tables,South,738.31,149.97,4,Distributor,Corporate
+ORD00359,2024-03-11,Electronics,Laptops,West,959.18,127.85,7,Online,Consumer
+ORD00360,2024-01-14,Electronics,Laptops,South,4849.99,432.62,9,Retail,Consumer
+ORD00361,2024-03-26,Furniture,Tables,West,7128.94,745.13,8,Distributor,Corporate
+ORD00362,2024-04-13,Electronics,Phones,South,3576.81,969.63,3,Retail,Small Business
+ORD00363,2023-02-03,Clothing,Men,South,3349.84,946.87,3,Retail,Corporate
+ORD00364,2024-01-14,Electronics,Accessories,West,4008.52,325.11,10,Online,Consumer
+ORD00365,2023-10-29,Electronics,Laptops,East,673.91,76.58,8,Retail,Corporate
+ORD00366,2023-08-09,Clothing,Women,North,3033.78,828.17,3,Retail,Corporate
+ORD00367,2024-03-03,Electronics,Accessories,East,5934.67,594.41,8,Online,Consumer
+ORD00368,2023-05-16,Furniture,Tables,West,1924.3,529.53,3,Distributor,Small Business
+ORD00369,2023-11-30,Furniture,Sofas,West,2077.31,809.82,2,Online,Small Business
+ORD00370,2024-07-07,Furniture,Tables,South,1307.3,960.18,1,Retail,Corporate
+ORD00371,2023-01-26,Clothing,Women,North,8561.9,648.6,10,Online,Small Business
+ORD00372,2023-03-29,Furniture,Sofas,North,4747.38,957.41,4,Distributor,Small Business
+ORD00373,2023-01-20,Electronics,Accessories,South,1669.64,675.34,2,Retail,Small Business
+ORD00374,2024-08-16,Electronics,Laptops,South,1290.37,130.42,8,Online,Small Business
+ORD00375,2023-12-15,Furniture,Tables,North,1640.93,221.48,7,Retail,Consumer
+ORD00376,2023-04-28,Clothing,Women,West,1298.64,564.69,2,Retail,Consumer
+ORD00377,2024-02-22,Electronics,Laptops,North,440.75,105.97,3,Online,Corporate
+ORD00378,2023-04-12,Electronics,Phones,North,1515.21,185.34,6,Retail,Corporate
+ORD00379,2023-09-03,Furniture,Tables,North,7417.53,606.73,10,Online,Consumer
+ORD00380,2023-11-22,Clothing,Women,North,4939.42,575.47,8,Retail,Consumer
+ORD00381,2024-07-21,Electronics,Laptops,South,7855.08,691.34,10,Online,Corporate
+ORD00382,2024-02-21,Clothing,Kids,South,1320.48,129.71,8,Retail,Small Business
+ORD00383,2023-09-09,Electronics,Phones,East,11916.49,954.98,9,Distributor,Consumer
+ORD00384,2024-09-27,Clothing,Women,North,3716.03,670.41,5,Online,Corporate
+ORD00385,2024-01-25,Electronics,Laptops,East,5736.93,850.32,6,Distributor,Corporate
+ORD00386,2024-06-30,Clothing,Women,North,1259.18,116.44,10,Online,Small Business
+ORD00387,2023-10-14,Clothing,Men,South,2149.36,250.31,7,Distributor,Small Business
+ORD00388,2024-04-08,Furniture,Sofas,East,1976.98,283.63,5,Distributor,Corporate
+ORD00389,2023-01-17,Furniture,Chairs,West,2093.41,664.12,3,Distributor,Corporate
+ORD00390,2024-02-28,Furniture,Chairs,North,10504.69,900.5,9,Distributor,Consumer
+ORD00391,2023-03-21,Furniture,Sofas,North,958.44,79.4,9,Distributor,Small Business
+ORD00392,2024-09-07,Clothing,Women,North,3365.25,417.41,6,Retail,Corporate
+ORD00393,2023-07-17,Clothing,Men,North,617.32,58.9,8,Retail,Corporate
+ORD00394,2024-09-20,Furniture,Sofas,East,4611.02,817.99,5,Online,Consumer
+ORD00395,2024-09-12,Furniture,Tables,North,316.72,56.78,4,Retail,Corporate
+ORD00396,2024-05-27,Clothing,Women,North,1895.37,211.95,8,Retail,Small Business
+ORD00397,2023-05-12,Clothing,Kids,South,471.01,171.06,2,Online,Small Business
+ORD00398,2023-01-24,Electronics,Accessories,East,7347.56,633.73,9,Online,Small Business
+ORD00399,2023-02-23,Furniture,Chairs,West,3866.99,460.92,6,Distributor,Small Business
+ORD00400,2024-06-13,Furniture,Chairs,West,1004.01,889.61,1,Retail,Corporate
+ORD00401,2024-02-06,Furniture,Tables,West,1998.86,367.97,4,Retail,Consumer
+ORD00402,2023-03-18,Electronics,Accessories,South,1104.78,237.03,4,Distributor,Corporate
+ORD00403,2024-03-18,Electronics,Accessories,North,777.9,612.9,1,Online,Corporate
+ORD00404,2023-09-02,Furniture,Tables,South,6748.5,840.89,6,Online,Corporate
+ORD00405,2024-03-25,Clothing,Men,North,1613.58,644.08,2,Distributor,Small Business
+ORD00406,2023-03-08,Electronics,Phones,North,434.78,108.9,3,Retail,Corporate
+ORD00407,2023-02-27,Electronics,Laptops,West,1207.76,99.59,9,Online,Consumer
+ORD00408,2024-09-30,Furniture,Chairs,West,582.88,480.74,1,Online,Small Business
+ORD00409,2023-01-27,Furniture,Sofas,North,5438.34,541.35,8,Retail,Small Business
+ORD00410,2023-03-11,Electronics,Phones,North,8941.56,799.95,10,Distributor,Small Business
+ORD00411,2024-05-07,Clothing,Men,East,5362.11,472.39,10,Retail,Corporate
+ORD00412,2024-03-22,Electronics,Phones,South,11373.92,961.75,9,Retail,Small Business
+ORD00413,2023-11-13,Furniture,Sofas,South,4430.55,375.76,10,Online,Corporate
+ORD00414,2024-06-03,Electronics,Accessories,South,9332.56,865.77,9,Online,Consumer
+ORD00415,2023-07-13,Electronics,Phones,South,7916.51,710.04,8,Online,Corporate
+ORD00416,2023-12-10,Clothing,Kids,East,3898.73,334.65,10,Distributor,Small Business
+ORD00417,2023-01-04,Electronics,Laptops,North,3438.75,708.56,4,Retail,Consumer
+ORD00418,2024-01-20,Electronics,Phones,West,2304.91,430.3,4,Distributor,Corporate
+ORD00419,2023-01-31,Electronics,Laptops,North,1652.54,159.43,9,Online,Corporate
+ORD00420,2023-07-23,Electronics,Accessories,East,1441.64,319.9,4,Online,Consumer
+ORD00421,2023-09-09,Furniture,Sofas,South,787.67,236.19,3,Retail,Small Business
+ORD00422,2024-01-24,Furniture,Chairs,North,834.73,371.46,2,Distributor,Consumer
+ORD00423,2023-06-25,Furniture,Chairs,East,12318.85,978.25,9,Retail,Small Business
+ORD00424,2023-05-14,Furniture,Sofas,North,1097.71,232.1,4,Online,Consumer
+ORD00425,2023-02-17,Furniture,Tables,West,8201.7,607.96,10,Distributor,Consumer
+ORD00426,2024-10-06,Furniture,Chairs,East,5925.99,879.21,5,Online,Consumer
+ORD00427,2024-04-26,Clothing,Women,South,1370.83,111.63,10,Distributor,Consumer
+ORD00428,2024-04-20,Clothing,Kids,East,1260.2,355.73,3,Retail,Small Business
+ORD00429,2024-08-18,Clothing,Women,West,6094.15,656.2,7,Retail,Corporate
+ORD00430,2024-04-07,Clothing,Men,South,1972.16,426.1,4,Online,Consumer
+ORD00431,2024-07-17,Furniture,Sofas,South,383.43,177.61,2,Retail,Corporate
+ORD00432,2023-02-12,Furniture,Sofas,East,5013.3,536.65,8,Online,Small Business
+ORD00433,2024-05-24,Furniture,Tables,West,1965.09,309.37,6,Retail,Corporate
+ORD00434,2024-01-03,Furniture,Chairs,East,808.39,329.79,2,Distributor,Consumer
+ORD00435,2023-04-11,Clothing,Kids,North,250.49,117.78,2,Retail,Consumer
+ORD00436,2023-09-14,Electronics,Laptops,South,4998.56,757.95,5,Distributor,Corporate
+ORD00437,2024-07-10,Furniture,Chairs,South,335.53,58.11,5,Distributor,Small Business
+ORD00438,2023-01-13,Furniture,Tables,West,7499.41,671.39,8,Distributor,Small Business
+ORD00439,2023-08-03,Electronics,Laptops,South,2732.26,272.04,8,Online,Small Business
+ORD00440,2023-11-17,Clothing,Women,West,2523.98,457.35,4,Retail,Consumer
+ORD00441,2023-01-31,Furniture,Chairs,West,1480.55,182.0,6,Retail,Small Business
+ORD00442,2023-12-30,Furniture,Sofas,North,1900.8,264.22,6,Retail,Small Business
+ORD00443,2023-01-24,Furniture,Sofas,East,10928.33,796.09,10,Retail,Small Business
+ORD00444,2024-02-05,Electronics,Laptops,West,1244.85,557.77,2,Retail,Consumer
+ORD00445,2023-04-06,Electronics,Laptops,West,556.23,149.1,3,Distributor,Corporate
+ORD00446,2023-07-23,Electronics,Accessories,West,2170.51,915.78,2,Online,Consumer
+ORD00447,2023-03-13,Electronics,Phones,East,1030.31,104.58,8,Distributor,Small Business
+ORD00448,2023-04-24,Electronics,Laptops,West,2043.86,559.63,3,Retail,Consumer
+ORD00449,2023-11-14,Electronics,Laptops,South,7425.42,827.0,7,Online,Consumer
+ORD00450,2024-05-29,Electronics,Accessories,East,2624.52,311.67,8,Distributor,Consumer
+ORD00451,2023-09-10,Electronics,Laptops,North,4075.05,362.45,9,Retail,Small Business
+ORD00452,2023-04-04,Furniture,Tables,West,4553.62,663.98,5,Distributor,Consumer
+ORD00453,2023-06-29,Furniture,Sofas,East,2739.2,286.68,7,Retail,Small Business
+ORD00454,2023-07-07,Clothing,Women,West,1822.17,140.76,10,Retail,Small Business
+ORD00455,2024-07-04,Electronics,Phones,South,3667.24,683.32,5,Retail,Small Business
+ORD00456,2024-07-20,Clothing,Kids,South,2143.99,995.55,2,Retail,Corporate
+ORD00457,2023-06-18,Electronics,Accessories,East,1316.04,247.0,5,Retail,Corporate
+ORD00458,2024-02-13,Electronics,Phones,West,1799.14,426.84,4,Retail,Corporate
+ORD00459,2024-04-20,Electronics,Accessories,South,4214.5,488.29,8,Retail,Small Business
+ORD00460,2023-10-13,Clothing,Men,West,672.01,212.06,3,Online,Corporate
+ORD00461,2024-02-05,Electronics,Phones,East,488.87,123.71,3,Online,Small Business
+ORD00462,2023-07-02,Clothing,Women,South,3971.19,728.69,4,Retail,Corporate
+ORD00463,2024-10-12,Clothing,Men,West,7714.24,658.96,9,Distributor,Consumer
+ORD00464,2024-09-04,Electronics,Laptops,East,113.75,96.23,1,Retail,Consumer
+ORD00465,2023-04-04,Electronics,Phones,East,629.15,450.6,1,Online,Consumer
+ORD00466,2023-06-21,Furniture,Chairs,North,338.61,91.81,3,Online,Consumer
+ORD00467,2024-07-08,Furniture,Tables,South,7202.35,941.98,7,Distributor,Consumer
+ORD00468,2023-01-16,Electronics,Phones,East,4953.69,671.29,7,Retail,Consumer
+ORD00469,2023-10-13,Electronics,Laptops,South,4299.95,400.53,10,Online,Small Business
+ORD00470,2023-04-15,Electronics,Laptops,East,9905.01,801.7,9,Distributor,Corporate
+ORD00471,2023-11-29,Clothing,Men,East,6754.31,694.01,7,Online,Small Business
+ORD00472,2023-11-22,Clothing,Men,East,964.42,114.14,8,Online,Small Business
+ORD00473,2023-08-27,Clothing,Women,West,7639.8,608.1,9,Distributor,Small Business
+ORD00474,2024-03-14,Electronics,Phones,North,2736.46,638.78,4,Retail,Consumer
+ORD00475,2024-01-20,Furniture,Tables,East,2991.7,659.94,4,Online,Consumer
+ORD00476,2023-05-18,Clothing,Kids,West,2330.52,351.66,5,Distributor,Corporate
+ORD00477,2023-01-25,Electronics,Accessories,West,3985.62,854.59,4,Distributor,Corporate
+ORD00478,2023-08-16,Electronics,Phones,North,10834.67,879.07,10,Distributor,Consumer
+ORD00479,2023-03-13,Electronics,Laptops,North,556.09,99.5,4,Online,Corporate
+ORD00480,2024-07-16,Electronics,Phones,North,1182.9,274.49,4,Online,Small Business
+ORD00481,2023-07-22,Clothing,Women,East,2285.92,452.82,4,Online,Small Business
+ORD00482,2023-10-06,Furniture,Tables,West,1401.74,126.02,8,Distributor,Consumer
+ORD00483,2024-03-08,Furniture,Tables,South,6801.96,628.92,9,Retail,Corporate
+ORD00484,2023-03-27,Electronics,Laptops,North,3395.52,615.42,5,Retail,Corporate
+ORD00485,2023-11-10,Clothing,Men,East,3182.3,319.06,8,Retail,Corporate
+ORD00486,2024-04-25,Furniture,Chairs,East,879.65,196.99,4,Online,Small Business
+ORD00487,2024-03-01,Electronics,Accessories,East,8032.56,971.97,7,Retail,Corporate
+ORD00488,2023-05-08,Furniture,Tables,North,7248.21,935.52,7,Retail,Consumer
+ORD00489,2024-05-15,Furniture,Tables,East,5456.0,711.63,6,Distributor,Small Business
+ORD00490,2023-02-05,Furniture,Sofas,South,5013.77,649.41,6,Online,Corporate
+ORD00491,2024-04-11,Clothing,Kids,South,1102.79,291.57,3,Retail,Small Business
+ORD00492,2024-01-29,Clothing,Men,North,7017.89,720.77,7,Online,Consumer
+ORD00493,2024-03-13,Electronics,Accessories,South,4332.65,707.24,5,Retail,Consumer
+ORD00494,2024-02-26,Clothing,Kids,West,384.65,153.81,2,Distributor,Corporate
+ORD00495,2024-02-12,Furniture,Chairs,East,311.06,56.1,5,Distributor,Consumer
+ORD00496,2024-03-03,Furniture,Chairs,North,4619.79,446.0,9,Online,Small Business
+ORD00497,2023-05-18,Furniture,Chairs,South,2511.41,512.15,4,Retail,Consumer
+ORD00498,2023-03-02,Electronics,Laptops,South,2743.92,818.72,3,Online,Consumer
+ORD00499,2023-03-23,Furniture,Tables,North,718.63,131.42,5,Distributor,Consumer
+ORD00500,2024-05-04,Electronics,Laptops,North,5983.47,689.16,8,Distributor,Consumer
